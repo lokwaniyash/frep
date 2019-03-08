@@ -1,4 +1,4 @@
-# frep
+# Find and Replace
 A simple Find and Replace program made for a college assignment,
 all you need to do is run cmd in the same directory and type main.
 
